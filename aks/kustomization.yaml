@@ -3,4 +3,3 @@ kind: Kustomization
 
 resources:
 - https://raw.githubusercontent.com/istio/istio/release-1.17/samples/bookinfo/platform/kube/bookinfo.yaml
-
